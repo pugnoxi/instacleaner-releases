@@ -1,13 +1,15 @@
 # InstaCleaner – Downloads
 
-Hier liegen die Installer und Auto-Updates für **InstaCleaner** (macOS, Apple Silicon). Der Quellcode liegt nicht hier.
+Hier gibts die Updates und Downloads für **InstaCleaner** (macOS, Apple Silicon).
 
-## Installieren
+Quellcode im private Repo.
 
-1. Unter [Releases](../../releases/latest) die Datei `InstaCleaner-<version>-arm64.dmg` herunterladen.
+## Installieren (HOWTODO my friend)
+
+1. Unter [Releases](../../releases/latest) dmg Datei `InstaCleaner-<version>-arm64.dmg` runterladen
 2. Öffnen und InstaCleaner in den Ordner „Programme“ ziehen.
 
-Neue Versionen installiert die App selbst: Sie lädt Updates im Hintergrund und bietet dann „Jetzt neu starten“ an.
+Bei Updates automatischer get vom Github Server.
 
 > Nicht mit Instagram oder Meta verbunden. Automatisierte Nutzung kann gegen die Instagram-Nutzungsbedingungen
 > verstoßen. Löschungen sind endgültig.
